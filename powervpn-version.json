@@ -1,5 +1,6 @@
 {
   "latestVersionCode":52,
   "updateMessage":"New Bug Fix",
-  "forceUpdate":true
+  "forceUpdate":true,
+  "updateURL":""
 }
