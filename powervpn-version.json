@@ -2,5 +2,6 @@
   "latestVersionCode":52,
   "updateMessage":"New Bug Fix",
   "forceUpdate":true,
+  "updateIntent":"",
   "updateURL":""
 }
