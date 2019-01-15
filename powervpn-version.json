@@ -1,7 +1,7 @@
 {
   "latestVersionCode":54,
   "updateMessage":"This Update contains bug fixes and patches",
-  "forceUpdate":true,
+  "forceUpdate":false,
   "updateIntent":"market://details?id=com.vpn.powervpn",
   "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn"
 }
