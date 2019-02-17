@@ -1,1 +1,7 @@
-
+{
+  "latestVersionCode":29,
+  "updateMessage":"This Update contains bug fixes and patches",
+  "forceUpdate":false,
+  "updateIntent":"market://details?id=/com.shuttlevpn.free.proxy.gaming",
+  "updateURL":"https://play.google.com/store/apps/details?id=/com.shuttlevpn.free.proxy.gaming"
+}
