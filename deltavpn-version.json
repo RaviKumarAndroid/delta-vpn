@@ -1,6 +1,6 @@
 {
-  "latestVersionCode":17,
-  "updateMessage":"This Update contains bug fixes and patches",
+  "latestVersionCode":41,
+  "updateMessage":"This Update Fixes Country Loading Issue & Some Other Bugs. Update Now & Enjoy",
   "forceUpdate":false,
   "updateIntent":"market://details?id=com.vpn.deltavpn",
   "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.deltavpn"
