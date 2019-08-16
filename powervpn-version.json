@@ -1,7 +1,7 @@
 {
   "latestVersionCode":140,
-  "updateMessage":"This Version Of PowerVPN is discontinued. Please Update To The New HopperVPN",
+  "updateMessage":"This Version Of PowerVPN is discontinued. Please Update To The New DeltaVPN",
   "forceUpdate":false,
-  "updateIntent":"market://details?id=com.vpn.hopper.proxy.gaming",
-  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.hopper.proxy.gaming"
+  "updateIntent":"market://details?id=com.vpn.deltavpn",
+  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.deltavpn"
 }
