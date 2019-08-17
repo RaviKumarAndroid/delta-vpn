@@ -1,7 +1,7 @@
 {
   "latestVersionCode":141,
   "updateMessage":"Please Update To The Latest Version. It contains Bug Fixes & Patches",
-  "forceUpdate":true,
+  "forceUpdate":false,
   "updateIntent":"market://details?id=com.vpn.deltavpn",
   "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.deltavpn"
 }
