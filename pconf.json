@@ -8,7 +8,7 @@
 "t_c_max":4,
 "t_r_min":3,
 "t_r_max":6,
-"m_c_p_device":5,
+"m_c_p_device":3,
 "gap_btw_c":25200000,  
 "s":true  
 }
