@@ -8,6 +8,6 @@
 "t_r_max":6,
 "t_c_day":1,
 "m_c_p_device":5,
-"gap_btw_c":10000,  
+"gap_btw_c":25200000,  
 "s":true  
 }
