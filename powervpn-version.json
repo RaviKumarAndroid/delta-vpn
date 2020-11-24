@@ -1,7 +1,7 @@
 {
-  "latestVersionCode":143,
-  "updateMessage":"Update to the latest version. This Version of PowerVPN has been discontinued. It Has Stopped Working. So Please Update Now to HopperVPN",
-  "forceUpdate":true,
-  "updateIntent":"market://details?id=com.vpn.hopper.proxy.gaming",
-  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.hopper.proxy.gaming"
+  "latestVersionCode":209,
+  "updateMessage":"Update to the latest version. New Update Contains Latest Bug Fixes And Server Improvements",
+  "forceUpdate":false,
+  "updateIntent":"market://details?id=com.vpn.powervpn2",
+  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2"
 }
