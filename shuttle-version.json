@@ -1,7 +1,7 @@
 {
   "latestVersionCode":135,
   "updateMessage":"The New Update Contains Important Bug Fixes for speed and stability of the VPN. Its recommended that you update",
-  "forceUpdate":false,
+  "forceUpdate":true,
   "updateIntent":"market://details?id=com.shuttlevpn.free.proxy.gaming",
   "updateURL":"https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming"
 }
