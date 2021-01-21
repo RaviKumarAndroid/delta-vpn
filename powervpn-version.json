@@ -1,7 +1,7 @@
 {
-  "latestVersionCode":210,
-  "updateMessage":"Update to the latest version? New Update Contains Latest Bug Fixes And Server Improvements",
+  "latestVersionCode":212,
+  "updateMessage":"Our Servers are under maintainance for 4-6 hours. In the mean time you can try our new app Shuttle VPN",
   "forceUpdate":false,
-  "updateIntent":"market://details?id=com.vpn.powervpn2",
-  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2"
+  "updateIntent":"market://details?id=com.shuttlevpn.free.proxy.gaming",
+  "updateURL":"https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming"
 }
