@@ -3,7 +3,7 @@
   "updateMessage":"Servers In Protocol 1 Are In Maintainance. Please use protocol 2 till then",
   "forceUpdate":false,
   "updateIntent":"market://details?id=com.vpn.powervpn2",
-  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2"
+  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2",
   "title":"Servers Are Under Maintainance",
   "show_buttons":false,
   "force_repeat":true,
