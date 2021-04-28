@@ -1,7 +1,7 @@
 {
-  "latestVersionCode":34,
-  "updateMessage":"New Version of Hopper VPN is available. This Update Contain Numerous Bug Fixes For Stability. Its recommended that you update",
-  "forceUpdate":false,
+  "latestVersionCode":38,
+  "updateMessage":"New Version of Hopper VPN is available. This Update Contain Numerous Bug Fixes For Stability. Its a mandatory update",
+  "forceUpdate":true,
   "updateIntent":"market://details?id=com.vpn.hopper.proxy.gaming",
   "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.hopper.proxy.gaming"
 }
