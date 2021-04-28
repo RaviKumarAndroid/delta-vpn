@@ -1,10 +1,7 @@
 {
   "latestVersionCode":234,
-  "updateMessage":"Free Servers Are In Maintainance for 24 hours. Please use premium servers till the maintainance is complete. All The premium Servers are free. Sorry for the inconvenience. You can also use our other VPN app ShuttleVPN. Click the update button to download ShuttleVPN",
-  "forceUpdate":false,
-  "updateIntent":"market://details?id=com.shuttlevpn.free.proxy.gaming",
-  "updateURL":"https://play.google.com/store/apps/details?id=com.shuttlevpn.free.proxy.gaming",
-  "title":"Free Servers Are Under Maintainance",
-  "show_buttons":true,
-  "force_repeat":true
+  "updateMessage":"Critical update required. please update PowerVPN to continue using the app",
+  "forceUpdate":true,
+  "updateIntent":"market://details?id=com.vpn.powervpn2",
+  "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2"
 }
