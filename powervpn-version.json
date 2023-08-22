@@ -1,7 +1,7 @@
 {
-  "latestVersionCode":352,
+  "latestVersionCode":353,
   "updateMessage":"New Update Available, This new update contains important bug fixes. its recommended to update",
-  "forceUpdate":true,
+  "forceUpdate":false,
   "updateIntent":"market://details?id=com.vpn.powervpn2",
   "updateURL":"https://play.google.com/store/apps/details?id=com.vpn.powervpn2"
 }
